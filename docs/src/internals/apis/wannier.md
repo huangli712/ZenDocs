@@ -24,7 +24,6 @@ wannier_adaptor
 wannier_init
 wannier_exec
 wannier_save
-wannier_monitor
 w90_make_ctrl
 w90_make_proj
 w90_make_map
