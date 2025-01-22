@@ -20,6 +20,7 @@ Pages = ["ir.md"]
 
 ```@docs
 ir_adaptor
+ir_read
 ir_save
 irio_params
 irio_maps

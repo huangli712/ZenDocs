@@ -47,6 +47,10 @@ ctqmc_eimpx
 ctqmc_sigma
 ctqmc_nimpx
 ctqmc_edmft
+norg_edmft
+norg_delta
+norg_setuo
+norg_eimpx
 GetSigma
 GetNimpx
 GetEdmft
