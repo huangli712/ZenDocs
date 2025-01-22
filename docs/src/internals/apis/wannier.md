@@ -33,7 +33,7 @@ w90_make_chipsi
 w90_find_bwin
 w90_read_amat
 w90_read_eigs
-w90_read_hmar
+w90_read_hamr
 w90_read_umat
 w90_read_udis
 w90_read_wout
