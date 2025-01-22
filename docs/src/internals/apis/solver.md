@@ -59,4 +59,5 @@ GetEdmft
 GetSymmetry
 GetImpurity
 CatImpurity
+FixImpurity
 ```
