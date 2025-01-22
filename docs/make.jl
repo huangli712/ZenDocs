@@ -1,15 +1,21 @@
 push!(LOAD_PATH, ENV["ZEN_CORE"])
 
-using Documenter, ZenCore
+using Documenter
+using ZenCore
 
 makedocs(
     sitename = "Zen",
     clean = false,
-    authors = "Li Huang",
+    authors = "Li Huang <huangli@caep.cn> and contributors",
     format = Documenter.HTML(
         prettyurls = false,
         ansicolor = true,
+        repolink = "https://github.com/huangli712/Zen",
+        size_threshold = 409600, # 400kb
+        assets = ["assets/zen.css"],
     ),
+    #format = Documenter.LaTeX(platform = "none"),
+    remotes = nothing,
     modules = [ZenCore],
     pages = [
         "Home" => "index.md",
