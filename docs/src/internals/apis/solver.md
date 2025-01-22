@@ -50,6 +50,7 @@ ctqmc_edmft
 norg_edmft
 norg_delta
 norg_setup
+norg_sigma
 norg_eimpx
 GetSigma
 GetNimpx

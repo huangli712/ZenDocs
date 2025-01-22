@@ -32,6 +32,7 @@ w90_make_window
 w90_make_chipsi
 w90_make_kpath
 w90_make_rcell
+w90_make_hamr
 w90_make_hamk
 w90_diag_hamk
 w90_find_bwin
