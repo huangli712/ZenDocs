@@ -47,11 +47,12 @@ ctqmc_eimpx
 ctqmc_sigma
 ctqmc_nimpx
 ctqmc_edmft
-norg_edmft
-norg_delta
 norg_setup
-norg_sigma
+norg_delta
 norg_eimpx
+norg_sigma
+norg_nimpx
+norg_edmft
 GetSigma
 GetNimpx
 GetEdmft
