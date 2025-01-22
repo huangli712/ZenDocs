@@ -30,6 +30,10 @@ w90_make_map
 w90_make_group
 w90_make_window
 w90_make_chipsi
+w90_make_kpath
+w90_make_rcell
+w90_make_hamk
+w90_diag_hamk
 w90_find_bwin
 w90_read_amat
 w90_read_eigs
