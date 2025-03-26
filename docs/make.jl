@@ -20,7 +20,17 @@ makedocs(
     modules = [ZenCore],
     pages = [
         "Home" => "index.md",
-        "Introduction" => "intro.md",
+        "Introduction" => Any[
+            "Contents" => "intro/index.md",
+            "Strongly correlated materials" => "intro/sces.md",
+            "Density functional theory" => "intro/dft.md",
+            "Dynamical mean-field theory" => "intro/dmft.md",
+            "The DFT + DMFT method" => "intro/dft_dmft.md",
+            "Motivation" => "intro/motivation.md",
+            "Design philosophy" => "intro/design.md",
+            "Features" => "intro/features.md",
+            "Citation" => "intro/cite.md",
+        ],
         "Getting started" => Any[
             "README" => "start/README.md",
             "Download Zen" => "start/download.md",
