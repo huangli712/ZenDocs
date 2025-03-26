@@ -13,8 +13,8 @@ makedocs(
         repolink = "https://github.com/huangli712/Zen",
         size_threshold = 409600, # 400kb
         assets = ["assets/zen.css"],
+        collapselevel = 1,
     ),
-    #format = Documenter.LaTeX(platform = "none"),
     remotes = nothing,
     modules = [ZenCore],
     pages = [
