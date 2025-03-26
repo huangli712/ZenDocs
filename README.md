@@ -6,7 +6,7 @@ This project is currently under heavy developement. **PLEASE USE IT AT YOUR OWN 
 
 ## Version
 
-v0.8.4-devel.250326
+v0.1.0-devel.250326
 
 ## License
 
