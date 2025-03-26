@@ -72,15 +72,15 @@ makedocs(
             "Auxiliary tools" => Any[],
         ],
         "Internals" => Any[
-            "README" => "internals/README.md",
-            "Zen's framework" => Any[
-                "Density functional theory" => Any[],
-                "Dynamical mean-field theory" => Any[],
-                "Quantum impurity solver" => Any[],
-                "Kohn-Sham Adaptor" => Any[],
-                "Intermediate representation" => Any[],
-                "Self-energy functions" => Any[],
-                "Mixer" => Any[],
+            "Contents" => "internals/index.md",
+            "Computation framework" => Any[
+                "Density functional theory" => "internals/framework/dft.md",
+                "Dynamical mean-field theory" => "internals/framework/dmft.md",
+                "Quantum impurity solver" => "internals/framework/qim.md",
+                "Kohn-Sham Adaptor" => "internals/framework/adaptor.md",
+                "Intermediate representation" => "internals/framework/ir.md",
+                "Self-energy functions" => "internals/framework/selfenergy.md",
+                "Mixer" => "internals/framework/mixer.md",
             ],
             "ZenCore APIs" => Any[
                 "ZenCore" => "internals/apis/zencore.md",
