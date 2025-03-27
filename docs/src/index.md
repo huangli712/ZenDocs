@@ -83,14 +83,7 @@ Pages = [
 Depth = 1
 ```
 
-## Internals
-
-```@contents
-Pages = [
-    "internals/index.md",
-]
-Depth = 1
-```
+## Inside The ZenCore Library
 
 ```@contents
 Pages = [
@@ -106,8 +99,11 @@ Pages = [
 Depth = 1
 ```
 
+## The ZenCore APIs
+
 ```@contents
 Pages = [
+    "internals/apis/outline.md",
     "internals/apis/zencore.md",
     "internals/apis/global.md",
     "internals/apis/util.md",

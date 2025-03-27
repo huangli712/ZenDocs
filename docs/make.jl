@@ -112,6 +112,7 @@ makedocs(
         "Internals" => Any[
             "Contents" => "internals/index.md",
             "Inside The ZenCore Library" => Any[
+                "Summary" => "internals/framework/index.md",
                 "Software Architecture" => "internals/framework/arch.md",
                 "Density Functional Theory" => "internals/framework/dft.md",
                 "Dynamical Mean-Field Theory" => "internals/framework/dmft.md",
@@ -121,7 +122,8 @@ makedocs(
                 "Self-Energy Functions" => "internals/framework/selfenergy.md",
                 "Mixing" => "internals/framework/mixing.md",
             ],
-            "ZenCore APIs" => Any[
+            "The ZenCore APIs" => Any[
+                "Outline" => "internals/apis/outline.md",
                 "ZenCore" => "internals/apis/zencore.md",
                 "Global" => "internals/apis/global.md",
                 "Util" => "internals/apis/util.md",
