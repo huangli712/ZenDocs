@@ -106,4 +106,26 @@ Pages = [
 Depth = 1
 ```
 
+```@contents
+Pages = [
+    "internals/apis/zencore.md",
+    "internals/apis/global.md",
+    "internals/apis/util.md",
+    "internals/apis/tetra.md",
+    "internals/apis/types.md",
+    "internals/apis/config.md",
+    "internals/apis/base.md",
+    "internals/apis/vasp.md",
+    "internals/apis/qe.md",
+    "internals/apis/plo.md",
+    "internals/apis/wannier.md",
+    "internals/apis/ir.md",
+    "internals/apis/dmft.md",
+    "internals/apis/solver.md",
+    "internals/apis/sigma.md",
+    "internals/apis/mixer.md",
+]
+Depth = 1
+```
+
 ## Theory
