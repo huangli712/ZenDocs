@@ -14,7 +14,7 @@
 
 ```@contents
 Pages = [
-    "intro/index.md",
+    "intro/index.md"
     "intro/sces.md",
     "intro/dft.md",
     "intro/dmft.md",
