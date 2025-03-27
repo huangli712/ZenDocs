@@ -1,4 +1,4 @@
-# QUANTUM ESPRESSO
+# Quantum ESPRESSO
 
 *Tools for the quantum espresso software package (adaptor). It provide a lot of functions to deal with the qe-related files.*
 
