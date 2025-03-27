@@ -1,4 +1,4 @@
-# Quantum impurity solvers
+# Quantum Impurity Solvers
 
 *Wrapper for various quantum impurity solvers. Now only the CT-HYB₁, CT-HYB₂, HIA, and NORG quantum impurity solvers are supported.*
 

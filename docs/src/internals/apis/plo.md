@@ -1,4 +1,4 @@
-# Projected local orbitals
+# Projected Local Orbitals
 
 *Tools for the projection on localized orbitals scheme (adaptor).*
 

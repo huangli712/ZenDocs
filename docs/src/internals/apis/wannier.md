@@ -1,4 +1,4 @@
-# Wannier functions
+# Wannier Functions
 
 *Tools for the projection on wannier functions scheme (adaptor).*
 
