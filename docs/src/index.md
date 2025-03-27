@@ -19,6 +19,7 @@ Pages = [
     "intro/dft.md",
     "intro/dmft.md",
     "intro/dft_dmft.md",
+    "intro/codes.md",
     "intro/motivation.md",
     "intro/design.md",
     "intro/features.md",

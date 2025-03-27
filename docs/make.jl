@@ -26,6 +26,7 @@ makedocs(
             "Density Functional Theory" => "intro/dft.md",
             "Dynamical Mean-Field Theory" => "intro/dmft.md",
             "The DFT + DMFT Method" => "intro/dft_dmft.md",
+            "The DFT + DMFT codes" => "intro/codes.md",
             "Motivation" => "intro/motivation.md",
             "Design Philosophy" => "intro/design.md",
             "Features" => "intro/features.md",
