@@ -115,11 +115,11 @@ makedocs(
                 "Software Architecture" => "internals/framework/arch.md",
                 "Density Functional Theory" => "internals/framework/dft.md",
                 "Dynamical Mean-Field Theory" => "internals/framework/dmft.md",
-                "Quantum Impurity Solver" => "internals/framework/qim.md",
+                "Quantum Impurity Solvers" => "internals/framework/qim.md",
                 "Kohn-Sham Adaptor" => "internals/framework/adaptor.md",
                 "Intermediate Representation" => "internals/framework/ir.md",
                 "Self-Energy Functions" => "internals/framework/selfenergy.md",
-                "Mixer" => "internals/framework/mixer.md",
+                "Mixing" => "internals/framework/mixing.md",
             ],
             "ZenCore APIs" => Any[
                 "ZenCore" => "internals/apis/zencore.md",

@@ -87,7 +87,21 @@ Depth = 1
 
 ```@contents
 Pages = [
+    "internals/index.md",
+]
+Depth = 1
+```
 
+```@contents
+Pages = [
+    "internals/framework/arch.md",
+    "internals/framework/dft.md",
+    "internals/framework/dmft.md",
+    "internals/framework/qim.md",
+    "internals/framework/adaptor.md",
+    "internals/framework/ir.md",
+    "internals/framework/selfenergy.md",
+    "internals/framework/mixer.md",
 ]
 Depth = 1
 ```
