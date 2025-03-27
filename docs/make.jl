@@ -53,11 +53,13 @@ makedocs(
         "Guide" => Any[
             "Contents" => "guide/index.md",
             "Running Modes" => Any[
+                "Summary" => "guide/modes.md",
                 "Standard Mode" => "guide/standard.md",
-                "Interactive Mode" => "guide/repl.md",
+                "REPL Mode" => "guide/repl.md",
                 "Script Mode" => "guide/script.md",
             ],
             "Detailed Recipes" => Any[
+                "Summary" => "guide/recipes.md",
                 "Create Crystal Structure" => "guide/crystal.md",
                 "Preprocess" => "guide/preprocess.md",
                 "Preliminary Calculation" => "guide/preliminary.md",
@@ -72,6 +74,7 @@ makedocs(
                 "Technical Supports" => "guide/support.md",
             ],
             "Input Files" => Any[
+                "Summary" => "guide/input.md",
                 "case.toml" => "guide/fcase.md",
                 "MPI.toml" => "guide/fmpi.md",
                 "POSCAR" => "guide/poscar.md",
@@ -79,6 +82,7 @@ makedocs(
                 "Pseudopotentials" => "guide/paw.md",
             ],
             "Output Files" => Any[
+                "Summary" => "guide/output.md",
                 "Standard Output" => "guide/fterm.md",
                 "case.cycle" => "guide/fcycle.md",
                 "case.log" => "guide/flog.md",
@@ -86,6 +90,7 @@ makedocs(
                 "case.test" => "guide/ftest.md",    
             ],
             "Input Parameters" => Any[
+                "Summary" => "guide/parameters.md",
                 "Block [PCASE]" => "guide/block_case.md",
                 "Block [PDFT]" => "guide/block_dft.md",
                 "Block [PDMFT]" => "guide/block_dmft.md",

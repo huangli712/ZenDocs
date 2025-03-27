@@ -60,8 +60,36 @@ Depth = 1
 
 ## Guide
 
+```@contents
+Pages = [
+    "guide/index.md",
+    "guide/modes.md",
+    "guide/recipes.md",
+    "guide/input.md",
+    "guide/output.md",
+    "guide/parameters.md",
+    "guide/dft.md",
+    "guide/wannier.md",
+    "guide/dmft.md",
+    "guide/df.md",
+    "guide/qim.md",
+    "guide/apawlib.md",
+    "guide/docs.md",
+    "guide/gui.md",
+    "guide/tests.md",
+    "guide/tools.md",
+    "guide/tips.md",
+]
+Depth = 1
+```
 
 ## Internals
 
+```@contents
+Pages = [
+
+]
+Depth = 1
+```
 
 ## Theory
