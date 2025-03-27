@@ -21,7 +21,7 @@ makedocs(
     pages = [
         "Home" => "index.md",
         "Introduction" => Any[
-            "Contents" => "intro/index.md",
+            "Outline" => "intro/outline.md",
             "Strongly Correlated Materials" => "intro/sces.md",
             "Density Functional Theory" => "intro/dft.md",
             "Dynamical Mean-Field Theory" => "intro/dmft.md",
@@ -34,7 +34,7 @@ makedocs(
             "Citation" => "intro/cite.md",
         ],
         "Getting Started" => Any[
-            "Contents" => "start/index.md",
+            "Outline" => "start/outline.md",
             "Obtain" => "start/obtain.md",
             "Uncompress" => "start/uncompress.md",
             "Directory" => "start/directory.md",
@@ -44,14 +44,14 @@ makedocs(
             "The First Run" => "start/run.md",
         ],
         "Tutorials" => Any[
-            "Contents" => "tutor/index.md",
+            "Outline" => "tutor/outline.md",
             "SrVO``_{3}``: Strongly Correlated Metal" => "tutor/SrVO3.md",
             "FeSe: Unconventional Superconuctor" => "tutor/FeSe.md",
             "MnO: Mott Insulator" => "tutor/MnO.md",
             "Ce: ``f``-Electron Metal" => "tutor/Ce.md",
         ],
         "Guide" => Any[
-            "Contents" => "guide/index.md",
+            "Outline" => "guide/outline.md",
             "Running Modes" => Any[
                 "Summary" => "guide/modes.md",
                 "Standard Mode" => "guide/standard.md",
@@ -110,9 +110,9 @@ makedocs(
             "Tips And Tricks" => "guide/tips.md",
         ],
         "Internals" => Any[
-            "Contents" => "internals/index.md",
+            "Outline" => "internals/outline.md",
             "Inside The ZenCore Library" => Any[
-                "Summary" => "internals/framework/index.md",
+                "Outline" => "internals/framework/outline.md",
                 "Software Architecture" => "internals/framework/arch.md",
                 "Density Functional Theory" => "internals/framework/dft.md",
                 "Dynamical Mean-Field Theory" => "internals/framework/dmft.md",

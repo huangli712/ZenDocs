@@ -14,7 +14,7 @@
 
 ```@contents
 Pages = [
-    "intro/index.md",
+    "intro/outline.md",
     "intro/sces.md",
     "intro/dft.md",
     "intro/dmft.md",
@@ -33,7 +33,7 @@ Depth = 1
 
 ```@contents
 Pages = [
-    "start/index.md",
+    "start/outline.md",
     "start/obtain.md",
     "start/uncompress.md",
     "start/directory.md",
@@ -49,7 +49,7 @@ Depth = 1
 
 ```@contents
 Pages = [
-    "tutor/index.md",
+    "tutor/outline.md",
     "tutor/SrVO3.md",
     "tutor/FeSe.md",
     "tutor/MnO.md",
@@ -62,7 +62,7 @@ Depth = 1
 
 ```@contents
 Pages = [
-    "guide/index.md",
+    "guide/outline.md",
     "guide/modes.md",
     "guide/recipes.md",
     "guide/input.md",
@@ -87,6 +87,7 @@ Depth = 1
 
 ```@contents
 Pages = [
+    "internals/framework/outline.md",
     "internals/framework/arch.md",
     "internals/framework/dft.md",
     "internals/framework/dmft.md",
