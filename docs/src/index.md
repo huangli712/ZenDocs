@@ -28,7 +28,7 @@ Pages = [
 Depth = 1
 ```
 
-## Getting started
+## Getting Started
 
 ```@contents
 Pages = [
@@ -64,4 +64,3 @@ Depth = 1
 
 
 ## Theory
-

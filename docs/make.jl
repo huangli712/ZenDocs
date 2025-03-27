@@ -44,7 +44,7 @@ makedocs(
         ],
         "Tutorials" => Any[
             "Contents" => "tutor/index.md",
-            "SrVO``_{3}``: Correlated Metal" => "tutor/SrVO3.md",
+            "SrVO``_{3}``: Strongly Correlated Metal" => "tutor/SrVO3.md",
             "FeSe: Unconventional Superconuctor" => "tutor/FeSe.md",
             "MnO: Mott Insulator" => "tutor/MnO.md",
             "Ce: ``f``-Electron Metal" => "tutor/Ce.md",

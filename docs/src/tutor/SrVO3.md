@@ -1,1 +1,1 @@
-# SrVO``_{3}``: Correlated Metal
+# SrVO``_{3}``: Strongly Correlated Metal
