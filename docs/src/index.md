@@ -99,7 +99,7 @@ Pages = [
     "internals/framework/adaptor.md",
     "internals/framework/ir.md",
     "internals/framework/selfenergy.md",
-    "internals/framework/mixer.md",
+    "internals/framework/mixing.md",
 ]
 Depth = 1
 ```
@@ -124,7 +124,7 @@ Pages = [
     "internals/apis/dmft.md",
     "internals/apis/solver.md",
     "internals/apis/sigma.md",
-    "internals/apis/mixer.md",
+    "internals/apis/mixing.md",
 ]
 Depth = 1
 ```

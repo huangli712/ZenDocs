@@ -1,1 +1,1 @@
-# The DFT + DMFT codes
+# The DFT + DMFT Codes
