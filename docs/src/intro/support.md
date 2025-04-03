@@ -6,7 +6,9 @@ If you meet troubles or bugs when using the Zen computation framework, or reques
 
     Li Huang
 
-    Institute of Materials, China Academy of Engineering Physics, Sichuan, Jiangyou, PRC
+    Institute: Institute of Materials, China Academy of Engineering Physics
+    
+    Address: Sichuan, Jiangyou 621907, PRC
 
-    email: huangli at caep.cn
+    Email: huangli at caep.cn
 
