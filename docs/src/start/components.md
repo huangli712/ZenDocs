@@ -22,3 +22,5 @@ Well, the DFT + DMFT calculation is extremely tedious and complicated. It is alm
     * **ACTest** (v1.1.1-devel.250121)
 * Numerical library
     * **Flink** (v1.2.0-devel.20250116)
+
+These components should be updated frequently and individually. More components could be added in the future.
