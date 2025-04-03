@@ -1,6 +1,6 @@
 # Components
 
-Well, the DFT + DMFT calculation is extremely complicated. It is almost impossible to finish the whole task within a single program. So, just like the other DFT + DMFT codes, such as eDMFT and TRIQS, the Zen computation framework is also composed of a few components. They are listed as follows:
+Well, the DFT + DMFT calculation is extremely tedious and complicated. It is almost impossible to finish the whole task within a single program. So, just like the other DFT + DMFT codes, such as eDMFT and TRIQS, the Zen computation framework is also composed of a few components. They are listed as follows:
 
 * Core framework
     * **ZenCore** (v0.8.4-devel.250326)
