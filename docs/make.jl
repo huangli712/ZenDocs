@@ -34,6 +34,7 @@ makedocs(
         ],
         "Getting Started" => Any[
             "Outline" => "start/outline.md",
+            "Components" => "start/components.md",
             "Obtain" => "start/obtain.md",
             "Uncompress" => "start/uncompress.md",
             "Directory" => "start/directory.md",
@@ -41,6 +42,7 @@ makedocs(
             "Install" => "start/install.md",
             "Configure" => "start/configure.md",
             "The First Run" => "start/run.md",
+            "Upgrade" => "start/upgrade.md",
         ],
         "Tutorials" => Any[
             "Outline" => "tutor/outline.md",
