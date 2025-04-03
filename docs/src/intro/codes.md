@@ -18,4 +18,4 @@ Now there are some DFT + DMFT codes available in the internet. Most of them are 
 
 !!! todo
 
-    The above list might be incomplete. If your software is missed, please let me know (huangli at caep.cn). I will fix it.
+    The above list might be incomplete. If your codes/software are missed, please let me know (huangli at caep.cn). I will fix it.
