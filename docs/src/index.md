@@ -29,6 +29,9 @@ Pages = [
     "intro/features.md",
     "intro/future.md",
     "intro/cite.md",
+    "intro/fund.md",
+    "intro/team.md",
+    "intro/support.md",
 ]
 Depth = 1
 ```

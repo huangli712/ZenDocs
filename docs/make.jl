@@ -31,6 +31,9 @@ makedocs(
             "Features" => "intro/features.md",
             "Future Plan" => "intro/future.md",
             "Citation" => "intro/cite.md",
+            "Funding" => "intro/fund.md",
+            "Developers" => "intro/team.md",
+            "Technical Support" => "intro/support.md",
         ],
         "Getting Started" => Any[
             "Outline" => "start/outline.md",
