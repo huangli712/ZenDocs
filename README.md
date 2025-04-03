@@ -6,12 +6,14 @@ This project is currently under heavy developement. **PLEASE USE IT AT YOUR OWN 
 
 ## Version
 
-v0.2.0-devel.250403
+v0.2.1-devel.250403
 
 ## License
 
 GNU General Public License Version 3
 
 ## Documentation
+
+Source: See `zendocs/docs`.
 
 Online: https://huangli712.github.io/projects/zen/index.html
