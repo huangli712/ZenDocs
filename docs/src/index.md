@@ -38,6 +38,7 @@ Depth = 1
 ```@contents
 Pages = [
     "start/outline.md",
+    "start/components.md",
     "start/obtain.md",
     "start/uncompress.md",
     "start/directory.md",
@@ -45,6 +46,7 @@ Pages = [
     "start/install.md",
     "start/configure.md",
     "start/run.md",
+    "start/upgrade.md",
 ]
 Depth = 1
 ```
