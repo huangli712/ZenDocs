@@ -29,7 +29,7 @@ makedocs(
             "Motivation" => "intro/motivation.md",
             "Design Philosophy" => "intro/design.md",
             "Features" => "intro/features.md",
-            "Future Plan" => "intro/future.md",
+            "Future Plans" => "intro/future.md",
             "Citation" => "intro/cite.md",
             "Funding" => "intro/fund.md",
             "Developers" => "intro/team.md",
