@@ -1,12 +1,12 @@
 # ZenDocs
 
-ZenDocs is the documentation project of the [**Zen**](https://github.com/huangli712/Zen) DFT + DMFT computation framework. In other words, it should not be used separately.
+ZenDocs is the documentation project of the Zen DFT + DMFT computation framework. In other words, it should not be used separately.
 
 This project is currently under heavy developement. **PLEASE USE IT AT YOUR OWN RISK!**
 
 ## Version
 
-v0.2.2-devel.250404
+v0.2.3-devel.250430
 
 ## License
 
