@@ -99,11 +99,11 @@ makedocs(
             ],
             "Input Parameters" => Any[
                 "Summary" => "guide/parameters.md",
-                "Block [PCASE]" => "guide/block_case.md",
-                "Block [PDFT]" => "guide/block_dft.md",
-                "Block [PDMFT]" => "guide/block_dmft.md",
-                "Block [PIMP]" => "guide/block_impurity.md",
-                "Block [PSOLVER]" => "guide/block_solver.md",
+                "Block [case]" => "guide/block_case.md",
+                "Block [dft]" => "guide/block_dft.md",
+                "Block [dmft]" => "guide/block_dmft.md",
+                "Block [imp]" => "guide/block_impurity.md",
+                "Block [solver]" => "guide/block_solver.md",
             ],
             "Core Components" => Any[
                 "Density Functional Theory Code" => "guide/dft.md",
@@ -111,12 +111,14 @@ makedocs(
                 "Dynamical Mean-Field Theory Code" => "guide/dmft.md",
                 "Dual Fermion Code" => "guide/df.md",
                 "Quantum Impurity Solvers" => "guide/qim.md",
+            ],
+            "Auxliary Components" => Any[
                 "Projector Augmented Wave Datasets" => "guide/apawlib.md",
                 "Graphic User Interface" => "guide/gui.md",
                 "Auxiliary Tools" => "guide/tools.md",
+                "Tests And Examples" => "guide/tests.md",
+                "Documentation" => "guide/docs.md",
             ],
-            "Tests And Examples" => "guide/tests.md",
-            "Documentation" => "guide/docs.md",
             "Tips And Tricks" => "guide/tips.md",
         ],
         "Internals" => Any[
