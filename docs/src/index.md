@@ -20,18 +20,8 @@
 Pages = [
     "intro/outline.md",
     "intro/sces.md",
-    "intro/dft.md",
-    "intro/dmft.md",
-    "intro/dft_dmft.md",
-    "intro/codes.md",
-    "intro/motivation.md",
-    "intro/design.md",
-    "intro/features.md",
-    "intro/future.md",
-    "intro/cite.md",
-    "intro/fund.md",
-    "intro/team.md",
-    "intro/support.md",
+    "intro/methods.md",
+    "intro/about.md",
 ]
 Depth = 1
 ```
