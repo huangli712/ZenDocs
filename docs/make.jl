@@ -81,7 +81,6 @@ makedocs(
                 "One-Shot Calculation" => "guide/oneshot.md",
                 "Charge Self-Consistent Calculation" => "guide/scf.md",
                 "One-Component Calculation" => "guide/onecomp.md",
-                "Technical Supports" => "guide/support.md",
             ],
             "Input Files" => Any[
                 "Summary" => "guide/input.md",
