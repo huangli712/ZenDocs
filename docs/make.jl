@@ -44,9 +44,9 @@ makedocs(
         "Getting Started" => Any[
             "Outline" => "start/outline.md",
             "Components" => "start/components.md",
-            "Obtain" => "start/obtain.md",
+            "Get The Code" => "start/obtain.md",
             "Uncompress" => "start/uncompress.md",
-            "Directory" => "start/directory.md",
+            "Directory Structure" => "start/directory.md",
             "Compile" => "start/compile.md",
             "Install" => "start/install.md",
             "Configure" => "start/configure.md",
@@ -129,7 +129,7 @@ makedocs(
             "Outline" => "internals/outline.md",
             "Software Architecture" => "internals/arch.md",
             "Inside The ZenCore Library" => Any[
-                "Summary" => "internals/outline.md",
+                "Summary" => "internals/summary.md",
                 "ZenCore" => "internals/zencore.md",
                 "Global" => "internals/global.md",
                 "Util" => "internals/util.md",
