@@ -23,12 +23,14 @@ makedocs(
             "Outline" => "intro/outline.md",
             "Strongly Correlated Materials" => "intro/sces.md",
             "Theoretical Methods" => Any[
+                "Summary" => "intro/methods.md",
                 "Density Functional Theory" => "intro/dft.md",
                 "Dynamical Mean-Field Theory" => "intro/dmft.md",
                 "The DFT + DMFT Method" => "intro/dft_dmft.md",
                 "The DFT + DMFT Codes" => "intro/codes.md",
             ],
-            "The Zen Framework" => Any[
+            "About The Zen Framework" => Any[
+                "Summary" => "intro/about.md",
                 "Motivation" => "intro/motivation.md",
                 "Design Philosophy" => "intro/design.md",
                 "Features" => "intro/features.md",
@@ -106,6 +108,7 @@ makedocs(
                 "Block [solver]" => "guide/block_solver.md",
             ],
             "Core Components" => Any[
+                "Summary" => "guide/core.md",
                 "Density Functional Theory Code" => "guide/dft.md",
                 "Wannier Function Code" => "guide/wannier.md",
                 "Dynamical Mean-Field Theory Code" => "guide/dmft.md",
@@ -113,11 +116,12 @@ makedocs(
                 "Quantum Impurity Solvers" => "guide/qim.md",
             ],
             "Auxliary Components" => Any[
-                "Projector Augmented Wave Datasets" => "guide/apawlib.md",
+                "Summary" => "guide/auxiliary.md",
                 "Graphic User Interface" => "guide/gui.md",
                 "Auxiliary Tools" => "guide/tools.md",
                 "Tests And Examples" => "guide/tests.md",
                 "Documentation" => "guide/docs.md",
+                "Projector Augmented Wave Datasets" => "guide/apawlib.md",
             ],
             "Tips And Tricks" => "guide/tips.md",
         ],
@@ -154,6 +158,5 @@ makedocs(
                 "Mixing" => "internals/apis/mixing.md",
             ],
         ],
-        "Theory" => Any[],
     ],
 )
