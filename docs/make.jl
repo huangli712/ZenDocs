@@ -1,7 +1,4 @@
-haskey(ENV,"ZEN_CORE") && pushfirst!(LOAD_PATH, ENV["ZEN_CORE"])
-
 using Documenter
-using ZenCore
 
 makedocs(
     sitename = "Zen",
@@ -16,7 +13,6 @@ makedocs(
         collapselevel = 1,
     ),
     remotes = nothing,
-    modules = [ZenCore],
     pages = [
         "Home" => "index.md",
         "Introduction" => Any[
@@ -106,6 +102,10 @@ makedocs(
                 "Block [imp]" => "guide/block_impurity.md",
                 "Block [solver]" => "guide/block_solver.md",
             ],
+            "Tips And Tricks" => "guide/tips.md",
+        ],
+        "Components" => Any[
+            "Outline" => "internals/outline.md",
             "Core Components" => Any[
                 "Summary" => "guide/core.md",
                 "Density Functional Theory Code" => "guide/dft.md",
@@ -122,30 +122,10 @@ makedocs(
                 "Documentation" => "guide/docs.md",
                 "Projector Augmented Wave Datasets" => "guide/apawlib.md",
             ],
-            "Tips And Tricks" => "guide/tips.md",
         ],
         "Internals" => Any[
             "Outline" => "internals/outline.md",
             "Software Architecture" => "internals/arch.md",
-            "Inside The ZenCore Library" => Any[
-                "Summary" => "internals/summary.md",
-                "ZenCore" => "internals/zencore.md",
-                "Global" => "internals/global.md",
-                "Util" => "internals/util.md",
-                "Tetra" => "internals/tetra.md",
-                "Types" => "internals/types.md",
-                "Config" => "internals/config.md",
-                "Base" => "internals/base.md",
-                "VASP" => "internals/vasp.md",
-                "QE" => "internals/qe.md",
-                "PLO" => "internals/plo.md",
-                "Wannier" => "internals/wannier.md",
-                "IR" => "internals/ir.md",
-                "DMFT" => "internals/dmft.md",
-                "Solver" => "internals/solver.md",
-                "Sigma" => "internals/sigma.md",
-                "Mixing" => "internals/mixing.md",
-            ],
         ],
     ],
 )
