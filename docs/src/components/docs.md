@@ -15,7 +15,7 @@ https://huangli712.github.io/projects/zen/index.html
 
 !!! tip
 
-    Note that the online documentation might be no the newest. Sometimes it has not been updated timely.
+    Note that the online documentation might be not the newest one. Sometimes it has not been updated timely.
 
 Besides ZenDocs, there are also comprehensive documentation for the internal components of the Zen computation framework. They are listed in the Table 1.
 
@@ -33,3 +33,5 @@ Besides ZenDocs, there are also comprehensive documentation for the internal com
 | **ACGui**    | https://huangli712.github.io/projects/acgui/index.html |
 | **ACTest**   | https://huangli712.github.io/projects/actest/index.html |
 | **Flink**    | https://huangli712.github.io/projects/flink/index.html |
+
+**Table 1 |** Documentation for the components of the Zen computation framework.
